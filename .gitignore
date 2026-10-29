@@ -1,0 +1,7 @@
+config.toml
+data/
+*.sqlite3*
+.env*
+*.pem
+*.key
+__pycache__/
