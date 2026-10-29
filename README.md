@@ -35,7 +35,8 @@ Backend CORS’da faqat shu GitHub Pages originiga ruxsat beradi. Har bir zakaz 
 
 ## Donat qoidalari
 
-- Izohsiz: Strawberry + Nutty teng.
+- Feed Up donati: yarim karobka ham qabul qilinadi — 0,5 × 12 = 6 dona. Jami 6, 12, 18, 24… dona.
+- Izohsiz: Strawberry + Nutty teng; 6 dona → 3 + 3, 12 dona → 6 + 6.
 - Faqat shokolad: Nutty.
 - Qulupnay yoki rozoviy: Strawberry.
 - Aniq miqdorli izoh: ta’mlar yig‘indisi zakaz miqdoriga teng bo‘lsa, odatdagi avtomatik yo‘l.
